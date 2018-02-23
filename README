@@ -1,0 +1,8 @@
+# infrastructure-engineering-assignment
+Scan the drivers and identify top 10 largest file on system
+Program takes two arguments, first source folder and destination folder
+- To run the program type the following in cmd prompt or terminal
+    python infra.py <source folder> <destination folder>
+  It scan the source folder and store all the contents having different file extension
+  according to their extension in the foldsr having name that of extension and information
+  about its size. Out of which top 10 largest file are displayed. 
